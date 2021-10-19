@@ -3,7 +3,7 @@ import './App.css'
 function Header() {
   return (
     <div>
-      Header
+      Header-2
     </div>
   )
 }
